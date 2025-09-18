@@ -1,0 +1,98 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+#head {
+    background-color: aqua;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;  
+    padding: 10px 0;
+    border-bottom: 2px solid red; /* চাইলে border দিতে পারেন */
+}
+
+#main {
+    margin-top: 40px; 
+    height: 100%;
+    width: 100%;
+    background-color: blanchedalmond;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+#shape1{
+    height: 200px;
+    width: 200px;
+    border: 3px solid black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    font-style: italic;
+    font: bold;
+    margin-top: 10px;
+    margin-right: 10px;
+
+}
+
+#shape2{
+    height: 200px;
+    width: 200px;
+    border: 3px solid black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    font-style: italic;
+    font: bold;
+    margin-top: 10px;
+    margin-right: 10px;
+
+}
+
+#shape3{
+    height: 200px;
+    width: 200px;
+    border: 3px solid black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    font-style: italic;
+    font: bold;
+    margin-top: 10px;
+    margin-right: 10px;
+    
+}
+
+#shape4{
+    height: 200px;
+    width: 200px;
+    border: 3px solid black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    font-style: italic;
+    font: bold;
+    margin-top: 10px;
+    margin-right: 10px;
+
+}
